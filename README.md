@@ -12,7 +12,7 @@ We can use LSTM model also to get about 90% accuracy also.
 ## Features of Dataset
 * The kernel is all about creating a model to predict the stocks whether they go up or down based on the top 25 headlines
 * The first column is "Date", the second is "Label", and the following ones are news headlines ranging from "Top1" to "Top25".
-Dataset Link from Kaggle  https://www.kaggle.com/datasets/aaron7sun/stocknews?select=upload_DJIA_table.csv)
+* Dataset Link from Kaggle  https://www.kaggle.com/datasets/aaron7sun/stocknews?select=upload_DJIA_table.csv)
 
 
 ## What is Sentimental Analysis? 
